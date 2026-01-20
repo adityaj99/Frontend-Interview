@@ -117,6 +117,39 @@
       "date": "2025-12-10T16:30:00.000Z",
       "coverImage": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg",
       "content": "Ethics form the backbone of trust in financial systems. With increased automation and complex instruments, ethical judgment plays a crucial role in decision-making. Short-term gains achieved through unethical practices often lead to long-term damage.\n\nProfessionals must prioritize transparency, integrity, and accountability. Strong ethical frameworks protect not only clients but also the credibility of the profession.\n\nIn an era of rapid change, ethics remain a constant guiding principle."
+    },
+    {
+      "id": "fa88",
+      "title": "What is a blog? Definition, types, benefits and why you need one",
+      "description": "This article will answer your most pressing blogging questions and help you understand how and why blogs succeed, plus show how you can utilize them.",
+      "category": [
+        "EDUCATION"
+      ],
+      "coverImage": "https://static.wixstatic.com/media/84b06e_d4fd1bcc50d24af0984e62d07dcbcef1~mv2.png/v1/fill/w_925,h_529,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/84b06e_d4fd1bcc50d24af0984e62d07dcbcef1~mv2.png",
+      "content": "With over 600 million blogs on the internet, you’ve likely encountered one or two blogs—you’re even on one right now. But you may still wonder what exactly is a blog? How does it differ from a website? Why does every business seem to have one? You may even ask yourself, how can I start my own blog? \n\nIn short, many individuals and businesses create a blog to share their ideas and expertise as well as boost their online presence. This article will answer your most pressing blogging questions and help you understand how and why blogs succeed, plus show how you can utilize them.\n\nStarting a blog should feel exciting, not overwhelming, right? With the Wix Blog Maker, you get everything you need to create, design and grow your blog from scratch–without needing a tech degree. Use Wix’s intuitive tools to share your ideas with the world. \n",
+      "date": "2026-01-20T06:19:40.792Z"
+    },
+    {
+      "id": "cc88",
+      "title": "What’s New in Node.js 24?: Latest Features and Functionalities",
+      "description": "The much-awaited Node.js 24 has been released on May 6th, 2025. The latest version offers several opportunities to provide new features and functionality that ease developers’ work.",
+      "category": [
+        "TECH"
+      ],
+      "coverImage": "https://assets.bacancytechnology.com/blog/wp-content/uploads/2025/05/09035533/whats-new-in-node.js-24.jpg",
+      "content": "As we shift our attention to the newest capabilities and use cases of Node js 24, let’s find out what makes this release a significant step forward for the Node.js ecosystem. Here is a comprehensive overview of the latest features and functionalities introduced in Node.js 24.\n\nThe first update of what’s new in Node.js 24 is the upgrade to the V8 JavaScript engine, which is now at version 13.6 with modern JavaScript capabilities. This enhancement is designed especially to enhance performance, boost resource management, and provide developers with a powerful tool to develop dynamic applications: \nThe first update of what’s new in Node.js 24 is the upgrade to the V8 JavaScript engine, which is now at version 13.6 with modern JavaScript capabilities. This enhancement is designed especially to enhance performance, boost resource management, and provide developers with a powerful tool to develop dynamic applications.,",
+      "date": "2026-01-20T06:40:12.408Z"
+    },
+    {
+      "id": "ad11",
+      "title": "What is Serverless Node & How Does it Work?",
+      "description": "Node Serverless is where Node programmers can develop and run apps without managing and setting up physical servers at the infrastructure. The advanced and modernized method ensures that Node developers focus only on writing and running code.",
+      "category": [
+        "TECH"
+      ],
+      "coverImage": "https://www.bacancytechnology.com/blog/wp-content/uploads/2023/04/image-16-min.png",
+      "content": "Node Serverless is where Node programmers can develop and run apps without managing and setting up physical servers at the infrastructure. The advanced and modernized method ensures that Node developers focus only on writing and running code.\n\nUnlike traditional Node.js app development, where one has to leverage express.js as a server, this new-age technology demands no servers or infrastructure. All you have to do is leverage one of the cloud platforms, such as Microsoft Azure Functions, AWS Lambda, or Google Cloud Functions. Leveraging cloud platforms would make scalability, accessibility, and load-balancing issues a thing of the past.\n\nNow let’s understand how serverless Nodejs works.\n\nThe Node.js serverless architecture executes Node.js functions in an attempt to HTTP requests or events. All the tasks Node developers create are uploaded to cloud services providers, like AWS Lambda, which is also accountable for managing servers, infrastructure, traffic load, and scalability.",
+      "date": "2026-01-20T10:15:13.582Z"
     }
   ]
 }
